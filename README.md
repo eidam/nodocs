@@ -1,16 +1,16 @@
-# No Code
+# No Docs
 
-No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
+No docs is the best way to write well documented applications. Document nothing; deploy docless.
 
 ## Getting Started
 
-Start by not writing any code.
+Start by not writing any docs.
 
 ```
 
 ```
 
-This is just an example application, but imagine it doing anything you want. Adding new features is easy too:
+This is just an example documentation, but imagine it doing anything you want. Adding new documentation is easy too:
 
 ```
 
@@ -18,33 +18,7 @@ This is just an example application, but imagine it doing anything you want. Add
 
 The possibilities are endless.
 
-### Building the Application
 
-Now that you have not done anything it's time to build your application:
-
-```
-
-```
-
-Yep. That's it. You should see the following output:
-
-```
-
-```
-
-### Deploying
-
-While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
-
-```
-
-```
-
-It's that simple. And when it comes time to scale the application, all you have to do is:
-
-```
-
-```
 
 I know right?
 
